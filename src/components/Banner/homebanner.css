@@ -145,7 +145,6 @@
 }
 
 .homebanner-card-icons button {
-  border: none;
   cursor: default;
   padding: 0;
   border: 2px solid #f7f8f9;
@@ -427,7 +426,7 @@
 
 #username {
   border: 1px solid #d1d2d4;
-  border-radius: 20px 20px 20px 20px;
+  border-radius: 20px;
   padding: 20px;
   width: 90%;
   height: 15px;
@@ -437,7 +436,7 @@
 
 #password {
   border: 1px solid #d1d2d4;
-  border-radius: 20px 20px 20px 20px;
+  border-radius: 20px;
   padding: 20px;
   width: 90%;
   height: 15px;
